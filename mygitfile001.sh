@@ -28,7 +28,7 @@ read -p "enter the second values : " mul2
 echo " first value is : $mul1 "
 echo " second value is : $mul2 "
 echo " multiplication of the tow values is... "
-echo "result is $mul1 and $mul2 = $((mul1*mul2))"
+echo "result is $mul1 and $mul2 = $((mul1*mul2)) "
 }
 
 function divi()
@@ -38,7 +38,7 @@ read -p "enter the second values : " dev2
 echo " first value is : $dev1 "
 echo " second value is : $dev2 "
 echo " Division of the tow values is... "
-echo "result is $dev1 and $dev2 = $((dev1/dev2))"
+echo "result is $dev1 and $dev2 = $((dev1/dev2)) "
 }
 
 echo -e "\n The Main Program "
