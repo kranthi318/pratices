@@ -53,5 +53,5 @@ echo -e "\n This part is useing an Division \n\tonly displaying output to see..\
 divi
 echo -e "\n"
 echo " Task is completed "
-echo -e "\n----Thank you am Terminating in this Program---------\n\n"
+echo -e "\n----Thank you am Terminating in this Program--------\n\n"
 
