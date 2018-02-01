@@ -38,7 +38,7 @@ read -p "enter the second values : " dev2
 echo " first value is : $dev1 "
 echo " second value is : $dev2 "
 echo " Division of the tow values is... "
-echo " result is $dev1 and $dev2 = $((dev1-dev2)) "
+echo " result is $dev1 and $dev2 = $((dev1*dev2)) "
 }
 
 echo -e "\n The Main Program "
